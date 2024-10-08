@@ -22,27 +22,27 @@ Developed a C# application that implements real-time data processing using objec
 
 <p align="center">
 The Program: The Unique class file<br/>
-<img src="https://i.imgur.com/ZeVCzvk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T0o1sOh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: To process and separate input<br/>
-<img src="https://i.imgur.com/OMSIHZ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8VOX3bP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: To divide the last value by the first<br/>
-<img src="https://i.imgur.com/HIMtM8r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lPrT7i0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: The Main class file that provides the output<br/>
-<img src="https://i.imgur.com/jgKRYul.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YIHXOHj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Handles format exceptions and errors<br/>
-<img src="https://i.imgur.com/IrAFiYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H9J6iiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Successfully processes the data and separates it<br/>
-<img src="https://i.imgur.com/jbf662N.pngg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FCMKlAt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 </p>
